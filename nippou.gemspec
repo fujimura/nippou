@@ -3,7 +3,7 @@ require File.expand_path('../lib/nippou/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.authors       = ["Fujimura Daisuke"]
-  gem.email         = ["dfujimura@aiming-inc.com"]
+  gem.email         = ["me@fujimuradaisuke.com"]
   gem.description   = %q{Nippou editor for Hacker}
   gem.summary       = %q{Create, edit and send daily nippou with your $EDITOR}
   gem.homepage      = ""
